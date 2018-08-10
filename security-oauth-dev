@@ -1,0 +1,5 @@
+spring.security.oauth2.client.registration.test.client-id: clientapp
+spring.security.oauth2.client.registration.test.client-secret: 123456
+spring.security.user.name: dimple
+spring.security.user.password: password
+spring.security.user.roles: USER
